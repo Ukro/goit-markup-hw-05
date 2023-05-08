@@ -754,3 +754,12 @@ button {
 .button-sectione-one {
   transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
+
+.li-soc-network {
+  transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.customers-ul-li-transition {
+  transition: border-color 250ms cubic-bezier(0.4, 0, 0.2, 1),
+    color 250ms cubic-bezier(0.4, 0, 0.2, 1);
+}
