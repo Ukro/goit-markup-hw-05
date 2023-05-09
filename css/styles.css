@@ -835,8 +835,8 @@ button {
   transition: box-shadow 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
-.list-styles:hover,
-.list-styles:focus {
+.list-styles:hover p,
+.list-styles:focus p {
   transform: translateY(0%);
 }
 
