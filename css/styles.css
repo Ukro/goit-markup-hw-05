@@ -739,6 +739,8 @@ button {
 
 .list-styles {
   display: block;
+  
+  transition: box-shadow 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
 .list-styles:hover,
@@ -848,9 +850,9 @@ button {
     border-color 250ms cubic-bezier(0.4, 0, 0.2, 1), box-shadow 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
-.list-styles {
+/*.list-styles {
   transition: box-shadow 250ms cubic-bezier(0.4, 0, 0.2, 1);
-}
+}*/
 
 .list-styles:hover p,
 .list-styles:focus p {
