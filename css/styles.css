@@ -59,6 +59,9 @@ body {
   /* NAVY BLUE */
 
   color: var(--text-color);
+  padding: 24px 0;
+  display: block;
+  position: relative;
 }
 
 .studio-one:hover,
